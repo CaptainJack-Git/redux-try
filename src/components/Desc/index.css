@@ -1,0 +1,11 @@
+.desc {
+  border: 1px dashed darkseagreen;
+  padding: 5px;
+}
+
+.desc .title {
+  text-align: center;
+  padding: 5px;
+  font-size: 18px;
+  font-weight: bold;
+}
